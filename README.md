@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Suraj Singh
 ===================================================================================================================================
 
-Full-Stack Website & Android/IOS App Developer
+Self Taught Full-Stack Website & Android/IOS App Developer
 ----------------------------------------------
 
 I've been learning to code for 1 year, after switching careers. I started with HTML,but have really found a passion for backend developement.
