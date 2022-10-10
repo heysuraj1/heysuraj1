@@ -9,9 +9,7 @@ I've been learning to code for 1 year, after switching careers. I started with H
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyWebsite](http://www.digitalprenure.in/)
 * ✉️  You can contact me at [kumarniteshoffice786@gmail.com](mailto:kumarniteshoffice786@gmail.com)
-* 🚀  I'm currently working on [LykaCoin](http://lyka-coins.vercel.app/)
 * 🧠  I'm learning Flutter & Dart
-* 🤝  I'm open to collaborating on VRBlocks
 * ⚡  In my free time i am also a Youtube Creator
 
 <a href="https://www.twitter.com/hey_suraj1" target="_blank" rel="noreferrer"><img
